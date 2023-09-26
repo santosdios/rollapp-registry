@@ -1,8 +1,8 @@
 {
   "chainId": "coinhunterstrrollapp_9084503-1",
-  "chainName": "coinhunterstrrollapp_9084503-1",
-  "rpc": "http://116.202.18.4:26657",
-  "rest": "http://116.202.18.4:1317",
+  "chainName": "Coinhunterstrrollapp",
+  "rpc": "https://froopyland.dymension.xyz/7/coinhunterstrrollapp_9084503-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/coinhunterstrrollapp_9084503-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8a9e57",
-    "rpc": "http://116.202.18.4.8545"
+    "rpc": "https://froopyland.dymension.xyz/7/coinhunterstrrollapp_9084503-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
